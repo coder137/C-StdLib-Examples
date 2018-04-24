@@ -1,7 +1,7 @@
 # signal.h Standard Library
 
 - [x] signal
-- [ ] raise
+- [x] raise
 
 
 ### Explanation

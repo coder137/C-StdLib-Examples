@@ -1,6 +1,6 @@
 # time.h Standard Library
 
-- [ ] asctime
+- [x] asctime
 - [ ] clock
 - [ ] ctime
 - [ ] difftime

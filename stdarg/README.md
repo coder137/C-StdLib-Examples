@@ -5,7 +5,7 @@ This library is used to add **VARIADIC ARGUMENTS** to functions
 ### Examples Created
 
 - [x] simpleExample
-- [ ] commandLineArgsExample
+- [x] commandLineArgsExample
 
 ### Functions used
 

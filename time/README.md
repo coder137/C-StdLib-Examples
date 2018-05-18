@@ -2,8 +2,8 @@
 
 - [x] asctime
 - [x] clock
-- [ ] ctime
-- [ ] difftime
+- [x] ctime
+- [x] difftime
 - [ ] gmtime
 - [ ] localtime
 - [ ] mktime
